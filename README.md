@@ -10,6 +10,7 @@ Contains:
 [Cell.pde]   A class file that creates the individual cells in the simulation
 
 
+
 Video Tutorial & Walkthrough Series (live-streamed from a Professional Development for CS Instructors)
 
 2.1 Cell Class / ArrayList Setup        https://youtu.be/OXu0sv5ZoiA
