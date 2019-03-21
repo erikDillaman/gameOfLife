@@ -4,7 +4,9 @@ A take on the classic Game of Life utilizing deterministic Cellular Automata, wr
 Contains:
 
 [gameOfLife1_7.pde]  The main source code for the program
+
 [Grid.pde]   A class file to setup the screen into a grid
+
 [Cell.pde]   A class file that creates the individual cells in the simulation
 
 
